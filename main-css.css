@@ -125,4 +125,12 @@ footer {
   margin-right: auto;
 }
 
+button {
+  float: right;
+}
+#copyrightFooter {
+  text-align: center;
+  color: #898989;
+}
+
 </style>
