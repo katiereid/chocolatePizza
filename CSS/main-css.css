@@ -5,7 +5,7 @@ header {
   margin-right: auto;
 }
 
-#logo {
+.logo {
   display: inline;
   float:left;
   width: 60px;
@@ -14,7 +14,7 @@ header {
   margin-top: 5px;
 }
 
-#siteTitle {
+.siteTitle {
   width: 1000px;
   margin-left:  auto;
   margin-right: auto;
@@ -83,7 +83,7 @@ h3{
   text-transform: uppercase;
 }
 
-#pizzaPic {
+.pizzaPic {
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
